@@ -1,4 +1,4 @@
-## 2D-Mini-Top-down-Game
+# 2D-Mini-Top-down-Game
 
 unitypackage：https://pan.baidu.com/s/14DWu1DtFEoJtZcccMmUECQ?pwd=p5uc
 
@@ -37,5 +37,5 @@ In addition, I have also implemented several new features: firearms now rotate t
 
 Finally, "Acknowledge" Button in Main Menu is clickable, and when pressed, it will display my name.
 
-# UPDATE:
+## UPDATE:
 1. Fixed mismatch between attack animation and damage trigger.   (5/14/2024)
