@@ -1,4 +1,4 @@
-# 2D-Mini-Top-down-Game
+## 2D-Mini-Top-down-Game
 
 unitypackage：https://pan.baidu.com/s/14DWu1DtFEoJtZcccMmUECQ?pwd=p5uc
 
@@ -36,3 +36,6 @@ Pause Button: Press Space Button can pause the game, and repress it to resume.
 In addition, I have also implemented several new features: firearms now rotate to face the mouse position (enemies' guns will perpetually point towards the player). The damage from the player's melee attacks is triggered only during the animation playback, thereby eliminating bugs where damage would register before the animation actually begins.
 
 Finally, "Acknowledge" Button in Main Menu is clickable, and when pressed, it will display my name.
+
+# UPDATE:
+1. Fixed mismatch between attack animation and damage trigger.   (5/14/2024)
